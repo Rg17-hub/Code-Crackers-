@@ -1,0 +1,23 @@
+﻿Build started 17-04-2020 12:32:16.
+Project "D:\C logic\c logic problems\c logic problems\c logic problems.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt count_positive_negative_zero.c
+  count_positive_negative_zero.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C logic\c logic problems\Debug\c logic problems.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C logic\c logic problems\Debug\c logic problems.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C logic\c logic problems\Debug\c logic problems.lib" /MACHINE:X86 Debug\check_polygone.obj
+  Debug\count_positive_negative_zero.obj
+  Debug\divisibility.obj
+  Debug\factorial.obj
+  Debug\grads.obj
+  Debug\number_sum.obj
+  Debug\oddeven.obj
+  Debug\oddeven_withoutmoduler.obj
+  Debug\simple_interest.obj
+  Debug\sum_of_digits.obj
+  Debug\swap2variables.obj
+  c logic problems.vcxproj -> D:\C logic\c logic problems\Debug\c logic problems.exe
+Done Building Project "D:\C logic\c logic problems\c logic problems\c logic problems.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
